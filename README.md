@@ -3,9 +3,9 @@
 
 3rd year Engineering students may find this project useful for their academic work.
 
-Its a small Java code for login and logout functionality Java code.
-I did this using JSP , Servlet, JDBC and MySql. 
-This code takes care of Back and Refresh vulnerability and deep URL without login vulnerability. 
+Its a small Java code for login and logout functionality.
+I did this using JSP , Servlet, JDBC and MySql.
+This code takes care of Back and Refresh vulnerability and deep URL without login vulnerability.
 I did this small project by referring one of the tutorial by Navin Reddy on youtube.
 
 Video Link:- 1) https://www.youtube.com/watch?v=q7WcUweCTmQ&list=PLsyeobzWxl7pUPF2xjjJiG4BKC9x_GY46&index=31
